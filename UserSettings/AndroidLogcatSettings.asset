@@ -1,0 +1,143 @@
+{
+    "m_SelectedDeviceId": "804KPAE1799840",
+    "m_SelectedPackage": {
+        "deviceId": "804KPAE1799840",
+        "name": "com.DefaultCompany.web3",
+        "processId": 18295,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 18181,
+            "exited": true
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 19547,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 22404,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 24023,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 24473,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 24907,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 25658,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 27579,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 28655,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 29871,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 31726,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 9638,
+            "exited": false
+        },
+        {
+            "deviceId": "804KPAE1799840",
+            "name": "com.DefaultCompany.web3",
+            "processId": 18295,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
