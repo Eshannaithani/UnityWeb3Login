@@ -12,4 +12,4 @@ All these features and more will be added to this repo in comming days.
 https://github.com/chainSafe/web3.unity/tree/mobile-experimental
 
 
-https://chainsafe.github.io/game-docs/mobile/
+https://chainsafe.github.io/game-docs/
